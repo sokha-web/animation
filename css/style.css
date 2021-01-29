@@ -9,6 +9,7 @@
   position: relative;
   animation-name: mycar;
   animation-duration: 20s;
+  animation-timing-function: linear;
 }
 
 .air{
@@ -19,6 +20,7 @@
   position: relative;
   animation-name: mymove;
   animation-duration: 15s;
+  animation-timing-function: linear;
 
 }
 @keyframes mymove {
